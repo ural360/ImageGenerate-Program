@@ -1,0 +1,7 @@
+Requirements:
+Stable Diffusion
+Tkinter
+Pillow
+torch
+os
+platform
