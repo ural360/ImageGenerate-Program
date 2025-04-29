@@ -5,3 +5,9 @@ Pillow
 torch
 os
 platform
+sys
+warnings
+pygame
+random 
+time
+webbrowser
